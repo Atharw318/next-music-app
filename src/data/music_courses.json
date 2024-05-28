@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Introduction to Music Theory",
+      "slug": "introduction-to-music-theory",
+      "description": "Learn the fundamentals of music theory, including notation, scales, chords, and rhythm.",
+      "instructor": "Dr. John Smith",
+      "price": 49.99,
+      "isFeatured": true,
+      "image": "https://example.com/images/introduction-to-music-theory.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Advanced Guitar Techniques",
+      "slug": "advanced-guitar-techniques",
+      "description": "Master advanced guitar techniques such as fingerpicking, sweep picking, and tapping.",
+      "instructor": "Jane Doe",
+      "price": 99.99,
+      "isFeatured": false,
+      "image": "https://example.com/images/advanced-guitar-techniques.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Jazz Improvisation",
+      "slug": "jazz-improvisation",
+      "description": "Learn the art of improvisation in the jazz style, focusing on scales, modes, and chord progressions.",
+      "instructor": "Michael Johnson",
+      "price": 79.99,
+      "isFeatured": true,
+      "image": "https://example.com/images/jazz-improvisation.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Music Production with Ableton Live",
+      "slug": "music-production-with-ableton-live",
+      "description": "A comprehensive course on music production using Ableton Live, covering recording, editing, and mixing.",
+      "instructor": "Emily Brown",
+      "price": 149.99,
+      "isFeatured": false,
+      "image": "https://example.com/images/music-production-with-ableton-live.jpg"
+    },
+    {
+      "id": 5,
+      "title": "History of Classical Music",
+      "slug": "history-of-classical-music",
+      "description": "Explore the history of classical music from the Baroque period to the 20th century.",
+      "instructor": "Dr. William Turner",
+      "price": 59.99,
+      "isFeatured": true,
+      "image": "https://www.istockphoto.com/photo/old-musical-instruments-violins-and-cello-gm1443942273-482770457?utm_campaign=srp_photos_10&utm_content=https%3A%2F%2Fwww.pexels.com%2Fsearch%2FHistory%2520of%2520Classical%2520Music%2F&utm_medium=affiliate&utm_source=pexels&utm_term=History%20of%20Classical%20Music"
+    },
+    {
+      "id": 6,
+      "title": "Electronic Music Production",
+      "slug": "electronic-music-production",
+      "description": "Learn to produce electronic music using various digital audio workstations and techniques.",
+      "instructor": "Sarah White",
+      "price": 129.99,
+      "isFeatured": false,
+      "image": "https://example.com/images/electronic-music-production.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Vocal Training for Beginners",
+      "slug": "vocal-training-for-beginners",
+      "description": "Develop your vocal skills with exercises and techniques designed for beginners.",
+      "instructor": "Karen Lee",
+      "price": 39.99,
+      "isFeatured": true,
+      "image": "https://example.com/images/vocal-training-for-beginners.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Piano for All Levels",
+      "slug": "piano-for-all-levels",
+      "description": "Comprehensive piano lessons for beginners to advanced players.",
+      "instructor": "Tom Harris",
+      "price": 89.99,
+      "isFeatured": false,
+      "image": "https://example.com/images/piano-for-all-levels.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Songwriting Techniques",
+      "slug": "songwriting-techniques",
+      "description": "Learn the art of songwriting, from lyrics to melody creation.",
+      "instructor": "Nina Walker",
+      "price": 69.99,
+      "isFeatured": true,
+      "image": "https://example.com/images/songwriting-techniques.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Classical Guitar Mastery",
+      "slug": "classical-guitar-mastery",
+      "description": "Advanced techniques and pieces for classical guitar enthusiasts.",
+      "instructor": "Carlos Martinez",
+      "price": 119.99,
+      "isFeatured": false,
+      "image": "https://example.com/images/classical-guitar-mastery.jpg"
+    }
+  ]
+}
